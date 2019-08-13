@@ -1,0 +1,36 @@
+.headingContent{
+    display: flex;
+    justify-content: center;
+ align-items: center;
+    
+     max-width: 586px;
+     height: 94px;
+     left: 429px;
+     top: 28px;
+     
+     font-family: Helvetica, sans-serif;
+     font-style: normal;
+     font-weight: bold;
+     font-size: 60px;
+     line-height: 94px;
+     color: #378D9F;
+     /* identical to box height */
+     
+    
+     @media (max-width: 767px) {
+        font-size:30px;
+      }
+    
+     
+     
+ }
+ 
+ .head{
+ display: flex;    
+ justify-content: center;
+ align-items: center;
+ height: 100px;
+ top: 2px;
+ background: linear-gradient(180deg, #DBF963 0%, rgba(196, 196, 196, 0) 100%);
+ background-color: #A2FFAB;
+ }

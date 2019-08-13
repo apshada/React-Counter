@@ -1,0 +1,24 @@
+ .buttonStyle{
+    display: flex;
+    margin: 0 auto;
+    width: 250px;
+    height: 50px;
+    
+
+}
+
+.displayStyle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin: 0 auto;
+    width: 250px;
+    height: 180px;
+    margin-top: 250px;
+    background: #F8F9FA;
+    color: rgb(108, 117, 125);
+    font-size: 120px;
+    box-sizing: border-box;
+    border: 1px solid grey;
+}
