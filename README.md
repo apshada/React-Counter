@@ -1,6 +1,6 @@
 A basic React app that allows one to increase, decrease, or reset a counter.
 
-Go here(https://www.google.com) for live demo.
+
 
 Node.js - Javascript runtime
 React - A javascript library for building user interfaces
